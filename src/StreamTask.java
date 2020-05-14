@@ -25,4 +25,8 @@ public class StreamTask {
                 .sorted()
                 .toArray();
     }
+
+    public static void test(){
+        System.out.println("Test");
+    }
 }
